@@ -17,8 +17,7 @@ With **19+ years of experience** spanning startups and large enterprises, I spec
 ## 🔹 Core Expertise  
 - **Cloud & Data Platforms**:  
   - Microsoft Azure (ADF, Synapse Analytics, Data Lake, Cosmos DB, Azure ML, Cognitive Services, Microsoft Fabric, Power BI)  
-  - Databricks (Delta Lake, Spark, Unity Catalog)  
-  - **Snowflake (SnowPro Certified)**  
+  - Databricks (Delta Lake, Spark, Unity Catalog)   
 - **AI & Analytics**: Generative AI, Machine Learning, AI-driven solutions, Business Intelligence.  
 - **Data Governance**: Microsoft Purview, MDM, compliance frameworks, data quality, security, and privacy.  
 - **Engineering Practices**: Azure DevOps, CI/CD pipelines, automated ETL/ELT workflows, version control, deployment.  

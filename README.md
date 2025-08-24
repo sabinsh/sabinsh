@@ -31,8 +31,9 @@ With **19+ years of experience** spanning startups and large enterprises, I spec
 - ✅ **Azure Data Engineer Associate**  
 - ✅ **Azure AI Engineer Associate**  
 - ✅ **Snowflake SnowPro Certified**  
-- ✅ **AWS Data Engineering**  
-
+- ✅ **AWS Data Engineering**
+- ✅ **Fabric Data Engineer**  
+- ✅ **Fabric Data Analyst**
 ---
 
 ## 🔹 Currently Exploring  

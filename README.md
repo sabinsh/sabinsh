@@ -45,6 +45,7 @@ With **19+ years of experience** spanning startups and large enterprises, I spec
 
 ## 🔹 Connect with Me  
 🌐 [LinkedIn](https://www.linkedin.com/in/sabin-shrestha-us/)  
+🌐 [YouTube](https://www.youtube.com/@DataSuperiorAI)  
 
 
 ---

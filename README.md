@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sabin Shrestha  
 
-🚀 **Practice Director | Data & AI Architect | Generative AI | Azure, Snowflake, Microsoft Fabric & Databricks Expert**  
+🚀 **Practice Director | Data & AI Architect | Generative AI | Azure, Microsoft Fabric & Databricks Expert**  
 
 With **19+ years of experience** spanning startups and large enterprises, I specialize in leading **Data Engineering, Analytics, AI/ML, and Cloud Architecture** initiatives. My expertise lies in building scalable data ecosystems, delivering impactful business insights, and driving organizational success through a combination of **hands-on technical leadership, mentorship, and strategic vision**.  
 
